@@ -1860,6 +1860,10 @@ footer a {
         width: 90px;
     }
 
+        .tickets-decoration-element1 {
+        width: 40px;
+    }
+
     .one-training-container {
         flex-direction: column;
     }
